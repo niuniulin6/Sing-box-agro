@@ -7,6 +7,5 @@
 
 # VPS一键四协议安装脚本
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/niuniulin6/Sing-box-agro/main/sing-box.sh)
 ```
-
