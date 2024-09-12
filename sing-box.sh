@@ -1348,7 +1348,7 @@ menu() {
    check_argo_status=$(check_argo) > /dev/null 2>&1
    clear
    echo ""
-   purple "=== 老王sing-box一键安装脚本 ===\n"
+   purple "=== sing-box一键脚本 ===\n"
    purple "---Argo 状态: ${check_argo_status}"   
    purple "--Nginx 状态: ${check_nginx_status}"
    purple "singbox 状态: ${check_singbox_status}\n"
